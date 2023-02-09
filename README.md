@@ -1,5 +1,5 @@
 # theTerminalProject
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/celiceceron/aguillarFamilyWineFestivalProject/blob/master/LICENCE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/celiceceron/theTerminalProject/blob/master/licence)
 
 # About the project
 This project is part of Codecademy's Bootcamp.
