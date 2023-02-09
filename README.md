@@ -7,7 +7,7 @@ During the studies on fundamentals of CSS, the site was created to demonstrate h
 https://theterminalproject.netlify.app/
 
 ## Web page
-![Web 1]()
+![Web 1](https://github.com/celiceceron/theTerminalProject/blob/451bd5c83681de019833524253c25733793fc880/web%20page.gif)
 
 
 # Technologies and tools I use
